@@ -1,0 +1,4 @@
+docker run --rm -it debian
+apt-get update && apt-get install -y  gcc
+# installing text-editor for creating simple program
+apt-get install -y vim
